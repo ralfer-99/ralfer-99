@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-4A90E2?style=for-the-badge" alt="Full Stack" />
   <img src="https://img.shields.io/badge/UI%2FUX-Designer-FF6B6B?style=for-the-badge" alt="UI/UX" />
   <img src="https://img.shields.io/badge/AI%20/ML-Enthusiast-54B435?style=for-the-badge" alt="AI/ML" />
-  <img src="https://img.shields.io/badge/Network%20L-Engineer-54B435?style=for-the-badge" alt="Net" />
+  <img src="https://img.shields.io/badge/Network%20-Engineer-54B435?style=for-the-badge" alt="Net" />
 
 </div>
 
