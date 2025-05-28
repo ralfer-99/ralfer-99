@@ -82,7 +82,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ralfer-99&theme=radical&hide_border=true&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" alt="GitHub Streak" />
+ <img src="https://github-profile-trophy.vercel.app/?username=Afraar99&theme=algolia&no-frame=true&row=1&column=5&margin-w=15&margin-h=8&title=MultiLanguage,Repositories,Experience,Commits,Followers" />
+
 </div>
 
 <br/>
