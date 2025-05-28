@@ -10,6 +10,12 @@
 
 </div>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ralfer-99&label=Profile%20views&color=0e75b6&style=flat" alt="ralfer-99" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ralfer-99" alt="ralfer-99" /></a> </p>
+
+
 <br/>
 
 ## 👋 About Me
