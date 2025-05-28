@@ -76,7 +76,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ralfer-99&row=1&column=6&margin-h=8&theme=algolia&count_private=true&margin-w=15&no-frame=true&exclude=followers" alt="profile trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ralfer-99&row=1&column=6&margin-h=8&theme=algolia&count_private=true&margin-w=15&no-frame=true&exclude=followers,stars" alt="profile trophies" />
 </div>
 
 <br/>
@@ -96,28 +96,6 @@
 
 [![ralfer-99's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ralfer-99&bg_color=141321&color=4A90E2&line=4A90E2&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ralfer-99&row=1&column=6&margin-h=8&theme=algolia&count_private=true&margin-w=15&no-frame=true&exclude=followers" alt="profile trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ralfer-99&theme=radical&hide_border=true&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ralfer-99&show_icons=true&theme=radical&hide_border=true&count_private=true&icon_color=4A90E2&title_color=4A90E2" alt="ralfer-99's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralfer-99&layout=compact&theme=radical&hide_border=true&title_color=4A90E2" alt="ralfer-99's top languages" />
-</div>
-
-<br/>
-
-[![ralfer-99's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ralfer-99&bg_color=141321&color=4A90E2&line=4A90E2&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🤝 Let's Connect!
