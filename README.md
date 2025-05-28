@@ -1,11 +1,11 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&letterSpacing=1&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Rheethus+Alfer!;Software+Engineer+%7C+Full+Stack+Developer;Welcome+to+My+GitHub!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&letterSpacing=1&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Raheethus+Alfer!;Software+Engineer+%7C+Full+Stack+Developer;Welcome+to+My+GitHub!" alt="Typing SVG" /></a>
 </h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-4A90E2?style=for-the-badge" alt="Full Stack" />
   <img src="https://img.shields.io/badge/UI%2FUX-Designer-FF6B6B?style=for-the-badge" alt="UI/UX" />
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-54B435?style=for-the-badge" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/AI%20/ML-Enthusiast-54B435?style=for-the-badge" alt="AI/ML" />
 </div>
 
 <br/>
