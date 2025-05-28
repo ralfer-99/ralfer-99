@@ -20,13 +20,13 @@
 
 🎨 I also bring in my creative side as a **UI/UX Designer**, blending design thinking with development to deliver intuitive and user-friendly interfaces.
 
-💼 Currently a **Trainee Software Engineer at Intteq**, contributing to real-world projects while continuously sharpening my development skills.
+💼 Currently a **Intern Software Engineer at Residue Solution**, contributing to real-world projects while continuously sharpening my development skills.
 
-🎓 Final-year undergraduate pursuing **Computing & Information Systems** at **Sabaragamuwa University of Sri Lanka**, with a strong foundation in computer science fundamentals and industry-oriented technologies.
+🎓 Completed Computer Science degree at University of Jaffna, with a strong foundation in computer science fundamentals and industry-oriented technologies.
 
 🛠️ Passionate about solving real-world problems with technology and constantly learning to stay ahead in the tech game.
 
-🔗 **Check out my portfolio:** [afraar99.github.io/Portfolio-Website](https://afraar99.github.io/Portfolio-Website)
+🔗 **Check out my portfolio:** [https://github.com/ralfer-99/portfolio.git]
 
 <br/>
 
@@ -37,7 +37,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### 🚀 Frameworks & Libraries
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
