@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-4A90E2?style=for-the-badge" alt="Full Stack" />
   <img src="https://img.shields.io/badge/UI%2FUX-Designer-FF6B6B?style=for-the-badge" alt="UI/UX" />
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-54B435?style=for-the-badge" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-54B435?style=for-the-badge" alt="AI/ML" />
 </div>
 
 <br/>
