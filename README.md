@@ -101,25 +101,19 @@
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-afraar/" target="_blank">
+  <a href="https://www.linkedin.com/in/raheethus-alfer-b66963206/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0e76a8" alt="LinkedIn" />
   </a>
-  <a href="https://stackoverflow.com/users/23494963/mohamed-afraar" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=F48024" alt="Stack Overflow" />
-  </a>
-  <a href="mailto:afraararm@gmail.com">
+  
+  <a href="mailto:ammralfer@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c71610" alt="Email" />
   </a>
-  <a href="https://medium.com/@afraar99" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000" alt="Medium" />
-  </a>
-  <a href="https://x.com/afraar_99" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" />
-  </a>
-  <a href="https://web.facebook.com/mohamed.afraar.94/" target="_blank">
+ 
+  <a href="https://www.facebook.com/alfer.majeed?mibextid=ZbWKwL/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1559c9" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/afraar_99/" target="_blank">
+  
+  <a href="https://www.instagram.com/alfermajeed?igsh=YWdoeW16bnVhaG9n/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=d62e5d" alt="Instagram" />
   </a>
 </div>
