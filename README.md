@@ -76,12 +76,6 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ralfer-99&row=1&column=6&margin-h=8&theme=algolia&count_private=true&margin-w=15&no-frame=true&exclude=followers,stars" alt="profile trophies" />
-</div>
-
-<br/>
-
-<div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=Afraar99&theme=algolia&no-frame=true&row=1&column=5&margin-w=15&margin-h=8&title=MultiLanguage,Repositories,Experience,Commits,Followers" />
 
 </div>
