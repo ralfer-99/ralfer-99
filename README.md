@@ -26,7 +26,7 @@
 
 🛠️ Passionate about solving real-world problems with technology and constantly learning to stay ahead in the tech game.
 
-🔗 **Check out my portfolio:** [https://github.com/ralfer-99/portfolio.git]
+🔗 **Check out my portfolio:** [https://ralfer-99.github.io/portfolio_N/]
 
 <br/>
 
