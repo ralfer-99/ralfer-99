@@ -75,7 +75,7 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div style="text-align: center;">
   <img src="https://github-profile-trophy.vercel.app/?username=ralfer-99&theme=gruvbox&no-frame=true&margin-w=10&title=MultiLanguage,Commits,Repositories,Experience,Followers" />
 </div>
 
